@@ -5,4 +5,6 @@ Alexander Gur.
 Specialties: HTML/CSS experienced, Javascript (ES6) beginner; CSS Preprocessors: SCSS, LESS; Methodologies: BEM; CSS principles: graceful degradation, pixel perfect, adaptive and responsive coding; VCS: Git;
 Code examples (LATEST) 6.Examples of my work is here: https://github.com/aBekar145/DataLabPublic; https://github.com/aBekar145/AngeekPublic
 Профессиональный онлайн‑курс HTML и CSS, уровень 1, HTML Academy, 2019.
-I have an intermediate level in English. Good luck
+I have an intermediate level in English.
+
+Good luck.)
